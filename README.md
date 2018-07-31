@@ -1,35 +1,37 @@
-# _Space Pirate Game_
+# _WEB PAGE #1_
 
-#### _AngularJS Exercise for Epicodus, 31.7.18_
+#### _MAKING OF A WEB PAGE, 31.7.18_
 
-#### By _**MERIA AND DEREK**_
+#### By _MERIA AND DEREK_
 
 ## Description
 
-_This is an awesome game that we totally made. its an app based game._
+_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
 ## Setup/Installation Requirements
 
-* _Clone the list from github_
-* _add the users_
-* _log all chaged and commit_
-* _laugh_
-* _play_
+* _This is a great place_
+* _to list setup instructions_
+* _in a simple_
+* _easy-to-understand_
+* _format_
+
+_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_No known bugs. Basic webpage_
+_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
 
 ## Support and contact details
 
-_contact master through email 123344@gmail.com_
+_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
 ## Technologies Used
 
-_html_
+_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
 
 ### License
 
-*Used Epicodus system*
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2016 **_Meria and Derek, Epicodus_**
+Copyright (c) 2016 **_{List of contributors or company name}_**
